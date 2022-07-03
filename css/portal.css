@@ -16,13 +16,14 @@ html {
 
 h1 {
     font-weight: normal;
+    font-family: monaco;
     margin: auto;
-    background: #fff;
+    background: blanchedalmond;
     line-height: 2.5em;
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: blanchedalmond;
     overflow: auto;
 }
 
@@ -32,18 +33,19 @@ p {
 
 h2,h3 {
     font-weight: normal;
+    font-family: fantasy;
     margin-left: 1em;
     line-height: 1em;
 }
 
 a {
-    color:darkcyan;
+    color:darkolivegreen;
     text-decoration: none;
 }
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: darkolivegreen;
     text-decoration: none;
 }
 
