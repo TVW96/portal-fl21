@@ -23,7 +23,7 @@ h1 {
 }
 
 main.wrapper {
-    background-color: #F2B705;
+    background-color: #F29F05;
     overflow: auto;
 }
 
@@ -50,7 +50,7 @@ a {
 
 a:hover {
     color: #BF0426;
-    background-color: blue;
+    background-color: #C9D94E;
     text-decoration: none;
 }
 

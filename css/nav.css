@@ -1,7 +1,7 @@
 /* Global rules */
 .topnav {
     margin: auto;
-    background-color: #C9D94E;
+    background-color: mediumblue;
     overflow: auto;
 }
 
@@ -17,7 +17,7 @@
 }
 
 .topnav a.hover, .active {
-    background-color: mediumblue;
+    background-color: #C9D94E;
 }
 
 .topnav .icon {
