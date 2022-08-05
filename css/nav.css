@@ -1,3 +1,7 @@
+
+h1.masthead {margin - top:0;}
+
+
 /* Global rules */
 .topnav {
     margin: auto;
@@ -10,14 +14,14 @@
     display: block;
     color: whitesmoke;
     text-align: center;
-    padding: 12px 12px;
+    padding: 7px 37px;
     text-decoration: none;
     text-transform: capitalize;
     font-size: 16px;
 }
 
 .topnav a.hover, .active {
-    background-color: #C9D94E;
+    background-color: #54c90b;
 }
 
 .topnav .icon {
